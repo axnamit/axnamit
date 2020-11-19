@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Amit Kumar. I am a Software Developer.
+
 <!--
 **axnamit/axnamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
