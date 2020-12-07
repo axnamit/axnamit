@@ -3,6 +3,7 @@
 ## My name is Amit Kumar. I am a Software Developer.
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axnamit&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axnamit&show_icons=true" alt="axnamit" /></p>
 
 
@@ -20,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
