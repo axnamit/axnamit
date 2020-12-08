@@ -14,6 +14,10 @@
 </p>
 
   ![Progress](https://progress-bar.dev/70/)         <strong>Android </strong>
+  ![Progress](https://progress-bar.dev/50/)         <strong>NodeJS </strong>
+  ![Progress](https://progress-bar.dev/30/)         <strong>React JS </strong>
+  ![Progress](https://progress-bar.dev/50/)         <strong>MongoDB </strong>
+  
 
 
 
