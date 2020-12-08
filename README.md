@@ -13,6 +13,10 @@
   <strong><a href="https://www.linkedin.com/in/amit-kumar-b28488167">LinkedIn</a></strong> 
 </p>
 
+  ![Progress](https://progress-bar.dev/70/)         <strong>Android </strong>
+
+
+
 <p align="center">I'm currently working on Software Development.</p>
 
 
