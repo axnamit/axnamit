@@ -11,12 +11,25 @@
   <strong><a href="https://axnamit.github.io/">Official Website</a></strong> |
   <strong><a href="https://twitter.com/YoungLordOn">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/amit-kumar-b28488167">LinkedIn</a></strong> 
-</p>
+  
+  
+  <p><strong>Tools</strong></p>
+
+
+<p align="center">
 
   ![Progress](https://progress-bar.dev/70/)         <strong>Android </strong>
   ![Progress](https://progress-bar.dev/50/)         <strong>NodeJS </strong>
   ![Progress](https://progress-bar.dev/30/)         <strong>React JS </strong>
-  ![Progress](https://progress-bar.dev/50/)         <strong>MongoDB </strong>
+  ![Progress](https://progress-bar.dev/50/)         <strong>MongoDB </strong></p>
+  
+  <p><strong>Langages</strong></p>
+<p align="center">
+
+  ![Progress](https://progress-bar.dev/80/)         <strong>Javascript </strong>
+  ![Progress](https://progress-bar.dev/80/)         <strong>Kotlin </strong>
+  ![Progress](https://progress-bar.dev/70/)         <strong>Java </strong>
+  ![Progress](https://progress-bar.dev/50/)         <strong>Python </strong></p>
   
 
 
