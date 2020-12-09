@@ -26,7 +26,7 @@
   <p><strong>Langages</strong></p>
 <p align="center">
 
-  ![Progress](https://progress-bar.dev/80/)         <strong>Javascript </strong>
+  ![Progress](https://progress-bar.dev/80/)         <strong>JS</strong>
   ![Progress](https://progress-bar.dev/80/)         <strong>Kotlin </strong>
   ![Progress](https://progress-bar.dev/70/)         <strong>Java </strong>
   ![Progress](https://progress-bar.dev/50/)         <strong>Python </strong></p>
