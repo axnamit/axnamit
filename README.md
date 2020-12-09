@@ -12,7 +12,8 @@
   <strong><a href="https://twitter.com/YoungLordOn">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/amit-kumar-b28488167">LinkedIn</a></strong> 
   
-  
+  ******
+
   <p><strong>Tools</strong></p>
 
 
@@ -22,6 +23,8 @@
   ![Progress](https://progress-bar.dev/50/)         <strong>NodeJS </strong>
   ![Progress](https://progress-bar.dev/30/)         <strong>React JS </strong>
   ![Progress](https://progress-bar.dev/50/)         <strong>MongoDB </strong></p>
+  ******
+
   
   <p><strong>Langages</strong></p>
 <p align="center">
