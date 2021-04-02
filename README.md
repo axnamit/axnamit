@@ -3,6 +3,9 @@
 ## My name is Amit Kumar.
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axnamit" alt="axnamit" /></a> </p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axnamit&layout=compact&hide=html" alt="axnamit" width="390" height="200"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axnamit&show_icons=true" alt="axnamit"  width="420" height="200"/></p>
 
