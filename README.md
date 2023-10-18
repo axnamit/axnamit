@@ -16,22 +16,22 @@ I'm a Full Stack Developer specializing in the MERN stack, with a passion for cr
 
 ## Get in Touch
 
-- 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/amitkumar)
-- 📧 Email me: amit@example.com
+- 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/amit-kumar-b28488167/)
+- 📧 Email me: amitkumar1000091@gmail.com
 
 ## Portfolio
 
 Here are some of my recent projects:
 
-- [Project 1: E-commerce Website](https://github.com/amitkumar/e-commerce)
-- [Project 2: Blog Application](https://github.com/amitkumar/blog-app)
-- [Project 3: Portfolio Website](https://github.com/amitkumar/portfolio)
+- [Project 1: codemon](https://codemon.in/)
+- [Project 2: Blog codemon](https://codemon.in/blog)
+- [Project 3: Portfolio Website](https://codemon.in/aboutus)
 
 ## Blog
 
 I occasionally write about my experiences and insights. Check out my blog:
 
-- [Amit's Tech Blog](https://amitkumar.dev/blog)
+- [Amit's Tech Blog](https://codemon.in/blog)
 
 ## Technologies I Love
 
